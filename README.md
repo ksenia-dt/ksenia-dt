@@ -2,7 +2,7 @@
 
 ## About Me
 
-Experienced QA Engineer and Team Leader at DevelopsToday with a passion for ensuring software quality through meticulous testing and leadership. With over 6 years of expertise in both Manual and Automation testing, I thrive on challenges, enjoy thinking outside the box, and take pride in fostering a culture of quality within my team. Let's ensure your software meets the highest quality standards!
+Experienced QA Engineer and Team Lead with a passion for ensuring software quality through meticulous testing and leadership. With over 6 years of expertise in both Manual and Automation testing, I thrive on challenges, enjoy thinking outside the box, and take pride in fostering a culture of quality within my team. Let's ensure your software meets the highest quality standards!
 
 ## Skills
 
@@ -49,5 +49,5 @@ Experienced QA Engineer and Team Leader at DevelopsToday with a passion for ensu
 
 Feel free to reach out if you need assistance with testing strategies, test automation, project management, or improving your overall software quality.
 
-- [LinkedIn](https://www.linkedin.com/in/ksenia-develops/)
-- [Email](mailto:ksenia-upwork@develops.today)
+- [Upwork](https://www.upwork.com/freelancers/~01ba39fe4e3b01f65c?mp_source=share)
+- [Email](mailto:ksenia.ilchenko.work@gmail.com)
